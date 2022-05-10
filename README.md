@@ -16,13 +16,13 @@ Aplicação Utilizando a biblioteca Redux no framework React com a API do CoinCa
 #### :collision: Preview da aplicação
 
 <div align="center"> 
-<img src="https://imgur.com/3NM5Sed" alt="preview"/>
+  <a href="https://bkg8rf.csb.app/" target="_blank">preview</a>
 </div>
 
 
-#### :heart: Créditos
+#### 🚀: Créditos
 [Samara Hurtado](https://www.linkedin.com/in/samara-hurtado-ramos-209937207/) e
 [Gabriel Jard](https://www.linkedin.com/in/gabriel-jard-90734b1a8/)
 
-[CoinCap](https://coincap.io/) pela API usada.
+[CoinCap](https://coincap.io/) pela API utilizada.
 
